@@ -4,7 +4,7 @@ config.php
 package-lock.json
 
 /dist
-
+/main
 main/assets/js/components/*
 
 .sass-cache/
