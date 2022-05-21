@@ -3,7 +3,8 @@ node_modules
 config.php
 package-lock.json
 
-**assets/js/components/**
+
+assets/js/components/**/*
 
 .sass-cache/
 *.css.map
