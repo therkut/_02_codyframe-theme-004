@@ -11,6 +11,8 @@ components/*
 
 /components/*
 
+/components/**
+
 
 .sass-cache/
 *.css.map
