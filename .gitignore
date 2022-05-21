@@ -5,14 +5,7 @@ package-lock.json
 
 /dist
 
-components/**
-
-components/*
-
-/components/*
-
-/components/**
-
+main/assets/js/components/*
 
 .sass-cache/
 *.css.map
