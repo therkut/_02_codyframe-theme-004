@@ -9,7 +9,13 @@ package-lock.json
 *.scss.map
 *.scss
 
+
+main/assets/*/components/
+
+
 # Ignore the components directory
+main/**/components	
+*components	
 main/**/components	
 
 # Ignore Logs
