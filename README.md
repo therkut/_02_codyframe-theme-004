@@ -47,5 +47,3 @@ A collection of web design tools that allow you to set the style of typography e
 ## Preview Theme
 
 [Explore the Theme](hthttps://therkut.github.io/_02_codyframe-theme-004/)
-
-## 
