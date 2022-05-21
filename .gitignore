@@ -4,12 +4,12 @@ config.php
 package-lock.json
 /dist
 
+components
+
 .sass-cache/
 *.css.map
 *.sass.map
 *.scss.map
 *.scss
 
-
-main/assets/*/components/.js
 
