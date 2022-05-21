@@ -2,6 +2,7 @@ node_modules
 *.DS_Store
 config.php
 package-lock.json
+/dist
 
 .sass-cache/
 *.css.map
@@ -10,25 +11,5 @@ package-lock.json
 *.scss
 
 
-main/assets/*/components/
+main/assets/*/components/.js
 
-
-# Ignore the components directory
-main/**/components	
-*components	
-main/**/components	
-
-# Ignore Logs
-logs
-*.log
-
-# Ignore the build directory
-/dist
-
-# The file containing environment variables 
-.env
-
-# Ignore IDE specific files
-.idea/
-.vscode/
-*.sw*
