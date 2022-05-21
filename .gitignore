@@ -1,0 +1,10 @@
+node_modules
+*.DS_Store
+config.php
+package-lock.json
+
+.sass-cache/
+*.css.map
+*.sass.map
+*.scss.map
+*.scss
