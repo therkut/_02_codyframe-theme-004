@@ -5,7 +5,11 @@ package-lock.json
 
 /dist
 
-/components/**
+components/**
+
+
+/components/*
+
 
 .sass-cache/
 *.css.map
