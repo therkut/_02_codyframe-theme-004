@@ -81,6 +81,7 @@ gulp.task('watch', gulp.series(['browserSync', 'sass', 'scripts'], function () {
 var distFolder = 'docs/';
 var assetsFolder = 'docs/assets/';
 
+
 gulp.task('dist', async function(){
   // remove unused classes from the style.css file with PurgeCSS and copy it to the dist folder
   await purgeCSS();
