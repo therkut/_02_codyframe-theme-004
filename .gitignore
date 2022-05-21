@@ -4,7 +4,8 @@ config.php
 package-lock.json
 
 
-assets/js/components/**/*
+
+**/components
 
 .sass-cache/
 *.css.map
